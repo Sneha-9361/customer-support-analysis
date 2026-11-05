@@ -1,0 +1,88 @@
+from datetime import datetime, timedelta
+import numpy as np
+import pandas as pd
+
+np.random.seed(42)
+n = 500
+
+agents = [
+    {"name": "Sarah Chen", "dept": "Technical Support"},
+    {"name": "Alex Reed", "dept": "Billing"},
+    {"name": "Marcus Vance", "dept": "Customer Service"},
+    {"name": "Elena Rostova", "dept": "Technical Support"},
+    {"name": "David Kim", "dept": "Billing"},
+    {"name": "Chloe Bennett", "dept": "Customer Service"},
+]
+
+channels = ["Email", "Live Chat", "Phone", "Web Portal"]
+categories = [
+    "Billing Inquiry",
+    "Account Access",
+    "Technical Bug",
+    "Feature Request",
+    "Cancellation",
+]
+priorities = ["Low", "Medium", "High", "Critical"]
+statuses = ["Resolved", "Pending", "Escalated"]
+
+base_date = datetime(2026, 1, 1)
+rows = []
+
+for i in range(1, n + 1):
+  created_dt = base_date + timedelta(
+      days=int(np.random.randint(0, 300)),
+      minutes=int(np.random.randint(480, 1140)),
+  )
+  agent = agents[np.random.choice(len(agents))]
+  channel = np.random.choice(channels, p=[0.35, 0.30, 0.25, 0.10])
+  category = np.random.choice(categories, p=[0.30, 0.25, 0.25, 0.10, 0.10])
+  priority = np.random.choice(priorities, p=[0.35, 0.40, 0.20, 0.05])
+  status = np.random.choice(statuses, p=[0.78, 0.14, 0.08])
+
+  if priority == "Critical":
+    resp_min = int(np.random.randint(5, 30))
+  elif priority == "High":
+    resp_min = int(np.random.randint(15, 60))
+  elif priority == "Medium":
+    resp_min = int(np.random.randint(30, 180))
+  else:
+    resp_min = int(np.random.randint(60, 360))
+
+  if status == "Resolved":
+    if priority == "Critical":
+      res_hrs = round(float(np.random.uniform(1.0, 8.0)), 1)
+    elif priority == "High":
+      res_hrs = round(float(np.random.uniform(4.0, 24.0)), 1)
+    elif priority == "Medium":
+      res_hrs = round(float(np.random.uniform(12.0, 48.0)), 1)
+    else:
+      res_hrs = round(float(np.random.uniform(24.0, 96.0)), 1)
+    resolved_dt = (created_dt + timedelta(hours=res_hrs)).strftime(
+        "%Y-%m-%d %H:%M"
+    )
+    csat = int(
+        np.random.choice([5, 4, 3, 2, 1], p=[0.45, 0.35, 0.10, 0.06, 0.04])
+    )
+  else:
+    res_hrs = np.nan
+    resolved_dt = ""
+    csat = np.nan
+
+  rows.append({
+      "Ticket_ID": f"TCK-{1000 + i}",
+      "Created_Date": created_dt.strftime("%Y-%m-%d %H:%M"),
+      "Resolved_Date": resolved_dt,
+      "Agent_Name": agent["name"],
+      "Department": agent["dept"],
+      "Channel": channel,
+      "Issue_Category": category,
+      "Priority": priority,
+      "Ticket_Status": status,
+      "First_Response_Minutes": resp_min,
+      "Resolution_Hours": res_hrs,
+      "Customer_Satisfaction": csat,
+  })
+
+df = pd.DataFrame(rows)
+df.to_csv("customer_support_data.csv", index=False)
+print("File successfully created: customer_support_data.csv")

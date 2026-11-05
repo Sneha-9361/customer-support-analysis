@@ -1,0 +1,501 @@
+Ticket_ID,Created_Date,Resolved_Date,Agent_Name,Department,Channel,Issue_Category,Priority,Ticket_Status,First_Response_Minutes,Resolution_Hours,Customer_Satisfaction
+TCK-1001,2026-04-13 15:15,2026-04-14 19:45,David Kim,Billing,Email,Technical Bug,Medium,Resolved,104,28.5,5.0
+TCK-1002,2026-06-01 10:10,2026-06-02 02:28,Chloe Bennett,Customer Service,Email,Technical Bug,High,Resolved,35,16.3,4.0
+TCK-1003,2026-09-10 17:20,2026-09-11 23:50,Marcus Vance,Customer Service,Live Chat,Billing Inquiry,Low,Resolved,249,30.5,4.0
+TCK-1004,2026-02-24 12:03,2026-02-28 09:33,Sarah Chen,Technical Support,Email,Technical Bug,Low,Resolved,148,93.5,3.0
+TCK-1005,2026-09-22 13:45,2026-09-23 02:57,David Kim,Billing,Email,Billing Inquiry,Medium,Resolved,37,13.2,2.0
+TCK-1006,2026-02-19 14:27,2026-02-21 06:21,Alex Reed,Billing,Live Chat,Billing Inquiry,Medium,Resolved,175,39.9,2.0
+TCK-1007,2026-09-27 12:30,2026-09-30 06:42,Chloe Bennett,Customer Service,Email,Billing Inquiry,Low,Resolved,112,66.2,1.0
+TCK-1008,2026-07-07 14:19,,David Kim,Billing,Email,Feature Request,Low,Escalated,188,,
+TCK-1009,2026-05-16 15:51,2026-05-17 03:03,Marcus Vance,Customer Service,Email,Technical Bug,High,Resolved,56,11.2,5.0
+TCK-1010,2026-05-15 11:20,2026-05-18 05:56,Elena Rostova,Technical Support,Email,Billing Inquiry,Low,Resolved,158,66.6,5.0
+TCK-1011,2026-02-04 18:12,2026-02-07 07:48,Chloe Bennett,Customer Service,Phone,Technical Bug,Low,Resolved,342,61.6,5.0
+TCK-1012,2026-02-11 15:40,2026-02-13 01:40,Marcus Vance,Customer Service,Email,Technical Bug,Low,Resolved,281,34.0,4.0
+TCK-1013,2026-05-23 10:50,2026-05-26 07:50,David Kim,Billing,Email,Billing Inquiry,Low,Resolved,125,69.0,5.0
+TCK-1014,2026-05-14 08:27,,Elena Rostova,Technical Support,Email,Feature Request,Medium,Pending,121,,
+TCK-1015,2026-08-19 11:09,2026-08-20 11:39,Sarah Chen,Technical Support,Email,Technical Bug,Low,Resolved,318,24.5,4.0
+TCK-1016,2026-05-17 13:17,2026-05-20 02:41,David Kim,Billing,Phone,Billing Inquiry,Low,Resolved,219,61.4,4.0
+TCK-1017,2026-04-23 16:16,2026-04-25 16:10,Alex Reed,Billing,Web Portal,Billing Inquiry,Medium,Resolved,142,47.9,5.0
+TCK-1018,2026-01-02 18:41,2026-01-03 09:17,Elena Rostova,Technical Support,Email,Billing Inquiry,High,Resolved,16,14.6,5.0
+TCK-1019,2026-07-17 14:55,,Elena Rostova,Technical Support,Email,Account Access,Low,Pending,157,,
+TCK-1020,2026-07-17 16:30,,Sarah Chen,Technical Support,Email,Account Access,Medium,Pending,176,,
+TCK-1021,2026-05-27 10:27,,Elena Rostova,Technical Support,Web Portal,Account Access,Medium,Pending,40,,
+TCK-1022,2026-05-31 14:54,,Chloe Bennett,Customer Service,Phone,Billing Inquiry,Low,Escalated,119,,
+TCK-1023,2026-01-02 13:03,2026-01-04 02:15,Chloe Bennett,Customer Service,Phone,Cancellation,Medium,Resolved,128,37.2,3.0
+TCK-1024,2026-06-01 08:53,,Sarah Chen,Technical Support,Live Chat,Billing Inquiry,Low,Pending,313,,
+TCK-1025,2026-08-15 09:51,2026-08-18 11:39,Chloe Bennett,Customer Service,Web Portal,Cancellation,Low,Resolved,253,73.8,4.0
+TCK-1026,2026-06-18 10:40,2026-06-20 00:40,Elena Rostova,Technical Support,Email,Account Access,Medium,Resolved,164,38.0,5.0
+TCK-1027,2026-06-25 15:39,,Marcus Vance,Customer Service,Live Chat,Billing Inquiry,Low,Escalated,110,,
+TCK-1028,2026-09-21 12:42,2026-09-22 18:42,Marcus Vance,Customer Service,Phone,Account Access,Medium,Resolved,90,30.0,4.0
+TCK-1029,2026-07-11 08:48,,Sarah Chen,Technical Support,Web Portal,Account Access,Low,Pending,292,,
+TCK-1030,2026-02-06 12:39,,David Kim,Billing,Live Chat,Cancellation,Critical,Pending,25,,
+TCK-1031,2026-06-10 12:15,2026-06-10 17:39,Marcus Vance,Customer Service,Email,Technical Bug,High,Resolved,54,5.4,5.0
+TCK-1032,2026-05-31 18:38,2026-06-01 04:32,Marcus Vance,Customer Service,Email,Account Access,High,Resolved,53,9.9,3.0
+TCK-1033,2026-01-13 16:25,2026-01-17 08:31,Sarah Chen,Technical Support,Live Chat,Billing Inquiry,Low,Resolved,201,88.1,5.0
+TCK-1034,2026-04-02 13:53,2026-04-04 10:29,Alex Reed,Billing,Live Chat,Technical Bug,Low,Resolved,249,44.6,4.0
+TCK-1035,2026-06-29 08:53,2026-06-29 21:59,Marcus Vance,Customer Service,Email,Account Access,High,Resolved,19,13.1,3.0
+TCK-1036,2026-02-16 18:55,2026-02-19 02:31,David Kim,Billing,Web Portal,Technical Bug,Low,Resolved,334,55.6,5.0
+TCK-1037,2026-08-17 15:53,2026-08-18 09:29,David Kim,Billing,Email,Account Access,Medium,Resolved,151,17.6,5.0
+TCK-1038,2026-05-06 09:57,2026-05-06 15:15,Sarah Chen,Technical Support,Phone,Billing Inquiry,Critical,Resolved,9,5.3,5.0
+TCK-1039,2026-03-17 10:33,2026-03-21 00:09,Marcus Vance,Customer Service,Phone,Billing Inquiry,Low,Resolved,153,85.6,4.0
+TCK-1040,2026-07-23 11:37,2026-07-24 15:07,Alex Reed,Billing,Live Chat,Account Access,Low,Resolved,82,27.5,2.0
+TCK-1041,2026-04-10 10:59,2026-04-11 03:17,Alex Reed,Billing,Live Chat,Account Access,High,Resolved,18,16.3,2.0
+TCK-1042,2026-09-15 16:16,2026-09-16 08:52,Elena Rostova,Technical Support,Live Chat,Cancellation,Medium,Resolved,153,16.6,3.0
+TCK-1043,2026-04-11 12:27,2026-04-12 19:45,Marcus Vance,Customer Service,Phone,Technical Bug,Low,Resolved,71,31.3,5.0
+TCK-1044,2026-08-30 08:34,2026-08-31 06:40,Sarah Chen,Technical Support,Phone,Account Access,Medium,Resolved,144,22.1,5.0
+TCK-1045,2026-04-24 16:12,2026-04-25 04:42,Marcus Vance,Customer Service,Phone,Technical Bug,High,Resolved,24,12.5,4.0
+TCK-1046,2026-08-15 09:38,,Elena Rostova,Technical Support,Live Chat,Technical Bug,Low,Escalated,96,,
+TCK-1047,2026-09-25 14:08,2026-09-27 07:56,David Kim,Billing,Phone,Billing Inquiry,Medium,Resolved,113,41.8,5.0
+TCK-1048,2026-07-06 08:18,2026-07-07 07:18,Sarah Chen,Technical Support,Email,Cancellation,High,Resolved,42,23.0,2.0
+TCK-1049,2026-05-24 09:08,,Marcus Vance,Customer Service,Live Chat,Technical Bug,Low,Escalated,203,,
+TCK-1050,2026-02-26 08:38,2026-02-26 15:50,David Kim,Billing,Web Portal,Cancellation,Critical,Resolved,7,7.2,5.0
+TCK-1051,2026-05-26 17:47,2026-05-28 09:47,Sarah Chen,Technical Support,Phone,Technical Bug,Low,Resolved,200,40.0,5.0
+TCK-1052,2026-10-10 18:33,2026-10-11 01:45,Alex Reed,Billing,Email,Billing Inquiry,Critical,Resolved,5,7.2,5.0
+TCK-1053,2026-08-05 13:00,2026-08-06 10:00,Elena Rostova,Technical Support,Live Chat,Technical Bug,Medium,Resolved,120,21.0,5.0
+TCK-1054,2026-05-06 15:30,2026-05-09 16:30,David Kim,Billing,Email,Account Access,Low,Resolved,60,73.0,5.0
+TCK-1055,2026-07-10 16:27,,Sarah Chen,Technical Support,Email,Account Access,Medium,Pending,90,,
+TCK-1056,2026-05-29 09:19,2026-06-01 06:37,Chloe Bennett,Customer Service,Web Portal,Cancellation,Low,Resolved,106,69.3,4.0
+TCK-1057,2026-01-01 14:12,2026-01-02 18:24,Chloe Bennett,Customer Service,Live Chat,Cancellation,Low,Resolved,283,28.2,5.0
+TCK-1058,2026-06-05 14:12,2026-06-07 13:18,Alex Reed,Billing,Email,Account Access,Medium,Resolved,130,47.1,1.0
+TCK-1059,2026-05-25 11:20,2026-05-28 22:32,Sarah Chen,Technical Support,Live Chat,Technical Bug,Low,Resolved,94,83.2,2.0
+TCK-1060,2026-09-13 15:29,2026-09-16 23:29,Alex Reed,Billing,Web Portal,Feature Request,Low,Resolved,348,80.0,4.0
+TCK-1061,2026-08-27 10:56,,Marcus Vance,Customer Service,Live Chat,Account Access,Critical,Pending,17,,
+TCK-1062,2026-04-08 09:44,2026-04-12 09:44,Marcus Vance,Customer Service,Email,Billing Inquiry,Low,Resolved,256,96.0,1.0
+TCK-1063,2026-01-23 17:24,2026-01-27 14:06,David Kim,Billing,Phone,Account Access,Low,Resolved,60,92.7,4.0
+TCK-1064,2026-10-15 08:33,2026-10-16 15:15,Elena Rostova,Technical Support,Email,Billing Inquiry,Medium,Resolved,32,30.7,3.0
+TCK-1065,2026-02-23 11:55,2026-02-24 22:55,David Kim,Billing,Email,Technical Bug,Medium,Resolved,114,35.0,3.0
+TCK-1066,2026-04-13 15:01,2026-04-14 22:43,Elena Rostova,Technical Support,Web Portal,Technical Bug,Medium,Resolved,81,31.7,4.0
+TCK-1067,2026-01-30 09:45,,Marcus Vance,Customer Service,Phone,Technical Bug,Medium,Pending,46,,
+TCK-1068,2026-03-10 17:05,2026-03-12 00:23,Chloe Bennett,Customer Service,Live Chat,Account Access,Medium,Resolved,144,31.3,4.0
+TCK-1069,2026-04-05 14:13,2026-04-06 13:43,Elena Rostova,Technical Support,Email,Account Access,High,Resolved,43,23.5,4.0
+TCK-1070,2026-02-20 14:42,2026-02-23 05:12,David Kim,Billing,Email,Billing Inquiry,Low,Resolved,60,62.5,5.0
+TCK-1071,2026-02-15 17:05,,Sarah Chen,Technical Support,Live Chat,Technical Bug,Low,Pending,180,,
+TCK-1072,2026-08-02 11:58,,Chloe Bennett,Customer Service,Email,Account Access,Low,Pending,67,,
+TCK-1073,2026-04-23 12:12,2026-04-24 16:54,Elena Rostova,Technical Support,Email,Account Access,Medium,Resolved,107,28.7,4.0
+TCK-1074,2026-01-14 13:11,2026-01-15 17:17,Marcus Vance,Customer Service,Phone,Feature Request,Medium,Resolved,47,28.1,4.0
+TCK-1075,2026-01-15 11:11,,Sarah Chen,Technical Support,Phone,Billing Inquiry,Medium,Pending,115,,
+TCK-1076,2026-05-06 16:56,2026-05-07 08:02,Sarah Chen,Technical Support,Email,Account Access,Medium,Resolved,175,15.1,4.0
+TCK-1077,2026-02-03 18:22,,Sarah Chen,Technical Support,Live Chat,Account Access,Low,Pending,285,,
+TCK-1078,2026-08-17 14:16,2026-08-18 08:58,Sarah Chen,Technical Support,Email,Billing Inquiry,Medium,Resolved,123,18.7,5.0
+TCK-1079,2026-04-05 10:16,2026-04-05 15:16,Marcus Vance,Customer Service,Live Chat,Account Access,Critical,Resolved,6,5.0,2.0
+TCK-1080,2026-05-14 09:57,2026-05-15 01:21,Sarah Chen,Technical Support,Live Chat,Technical Bug,High,Resolved,25,15.4,5.0
+TCK-1081,2026-10-27 18:44,2026-10-29 03:02,Chloe Bennett,Customer Service,Web Portal,Technical Bug,Low,Resolved,199,32.3,4.0
+TCK-1082,2026-02-07 10:18,2026-02-08 00:36,Elena Rostova,Technical Support,Email,Technical Bug,Medium,Resolved,34,14.3,1.0
+TCK-1083,2026-01-13 10:47,2026-01-15 16:29,Alex Reed,Billing,Email,Billing Inquiry,Low,Resolved,97,53.7,5.0
+TCK-1084,2026-03-10 13:17,,Elena Rostova,Technical Support,Web Portal,Billing Inquiry,Medium,Escalated,105,,
+TCK-1085,2026-02-04 16:32,2026-02-05 13:02,Chloe Bennett,Customer Service,Email,Technical Bug,High,Resolved,44,20.5,5.0
+TCK-1086,2026-03-19 14:49,,Chloe Bennett,Customer Service,Live Chat,Feature Request,Medium,Pending,68,,
+TCK-1087,2026-04-14 16:45,2026-04-16 13:09,Marcus Vance,Customer Service,Live Chat,Account Access,Medium,Resolved,174,44.4,5.0
+TCK-1088,2026-04-14 09:43,2026-04-15 19:43,Marcus Vance,Customer Service,Live Chat,Account Access,Low,Resolved,101,34.0,4.0
+TCK-1089,2026-06-06 12:48,2026-06-06 19:18,Elena Rostova,Technical Support,Phone,Technical Bug,Critical,Resolved,9,6.5,5.0
+TCK-1090,2026-07-15 17:57,,Alex Reed,Billing,Phone,Feature Request,Low,Pending,218,,
+TCK-1091,2026-08-16 11:35,2026-08-19 15:23,Elena Rostova,Technical Support,Live Chat,Technical Bug,Low,Resolved,232,75.8,4.0
+TCK-1092,2026-08-31 12:51,,Alex Reed,Billing,Email,Account Access,Low,Pending,97,,
+TCK-1093,2026-05-14 08:22,2026-05-15 22:28,Alex Reed,Billing,Web Portal,Billing Inquiry,Medium,Resolved,140,38.1,4.0
+TCK-1094,2026-05-13 10:06,2026-05-16 22:36,Alex Reed,Billing,Phone,Account Access,Low,Resolved,355,84.5,2.0
+TCK-1095,2026-09-14 18:12,2026-09-15 10:24,David Kim,Billing,Email,Billing Inquiry,High,Resolved,54,16.2,5.0
+TCK-1096,2026-05-17 11:21,2026-05-21 05:33,Elena Rostova,Technical Support,Phone,Technical Bug,Low,Resolved,149,90.2,5.0
+TCK-1097,2026-07-29 15:54,,Alex Reed,Billing,Web Portal,Technical Bug,Low,Pending,241,,
+TCK-1098,2026-06-01 08:24,2026-06-02 04:18,Elena Rostova,Technical Support,Live Chat,Cancellation,Medium,Resolved,179,19.9,5.0
+TCK-1099,2026-02-18 09:23,,Sarah Chen,Technical Support,Email,Account Access,Low,Escalated,108,,
+TCK-1100,2026-09-14 10:20,2026-09-15 02:50,Chloe Bennett,Customer Service,Phone,Billing Inquiry,High,Resolved,43,16.5,5.0
+TCK-1101,2026-05-24 15:03,2026-05-25 17:27,Marcus Vance,Customer Service,Email,Technical Bug,Medium,Resolved,142,26.4,4.0
+TCK-1102,2026-05-12 12:23,,David Kim,Billing,Email,Technical Bug,Low,Pending,221,,
+TCK-1103,2026-03-28 08:54,2026-03-29 05:12,Elena Rostova,Technical Support,Phone,Feature Request,Medium,Resolved,96,20.3,4.0
+TCK-1104,2026-02-23 11:58,2026-02-27 11:10,David Kim,Billing,Email,Technical Bug,Low,Resolved,155,95.2,4.0
+TCK-1105,2026-06-14 11:01,2026-06-16 02:01,David Kim,Billing,Live Chat,Account Access,Low,Resolved,220,39.0,5.0
+TCK-1106,2026-02-05 12:44,2026-02-06 13:50,Elena Rostova,Technical Support,Phone,Cancellation,Medium,Resolved,159,25.1,5.0
+TCK-1107,2026-01-20 12:20,2026-01-22 04:26,David Kim,Billing,Live Chat,Technical Bug,Medium,Resolved,115,40.1,5.0
+TCK-1108,2026-06-07 18:31,2026-06-09 09:13,Marcus Vance,Customer Service,Phone,Technical Bug,Medium,Resolved,43,38.7,4.0
+TCK-1109,2026-10-08 13:58,2026-10-08 19:46,Sarah Chen,Technical Support,Email,Feature Request,Critical,Resolved,17,5.8,4.0
+TCK-1110,2026-05-26 10:07,2026-05-28 01:01,David Kim,Billing,Phone,Account Access,Low,Resolved,135,38.9,5.0
+TCK-1111,2026-01-27 12:46,2026-01-29 09:40,Chloe Bennett,Customer Service,Phone,Billing Inquiry,Medium,Resolved,167,44.9,5.0
+TCK-1112,2026-07-09 18:33,2026-07-11 10:21,Chloe Bennett,Customer Service,Email,Billing Inquiry,Medium,Resolved,65,39.8,5.0
+TCK-1113,2026-09-24 12:55,2026-09-26 17:31,Marcus Vance,Customer Service,Live Chat,Technical Bug,Low,Resolved,157,52.6,2.0
+TCK-1114,2026-03-10 13:11,,Sarah Chen,Technical Support,Email,Account Access,Low,Pending,260,,
+TCK-1115,2026-06-03 15:29,2026-06-04 19:11,David Kim,Billing,Email,Account Access,Medium,Resolved,133,27.7,5.0
+TCK-1116,2026-05-11 16:17,2026-05-12 22:53,David Kim,Billing,Email,Cancellation,Low,Resolved,160,30.6,2.0
+TCK-1117,2026-01-17 13:29,,Sarah Chen,Technical Support,Live Chat,Billing Inquiry,Medium,Pending,37,,
+TCK-1118,2026-05-29 09:20,2026-06-01 11:14,David Kim,Billing,Phone,Feature Request,Low,Resolved,202,73.9,5.0
+TCK-1119,2026-01-26 08:46,2026-01-26 21:58,Alex Reed,Billing,Live Chat,Cancellation,Medium,Resolved,164,13.2,4.0
+TCK-1120,2026-05-17 16:17,,Marcus Vance,Customer Service,Web Portal,Account Access,High,Pending,32,,
+TCK-1121,2026-04-13 12:32,2026-04-16 02:44,Chloe Bennett,Customer Service,Live Chat,Billing Inquiry,Low,Resolved,352,62.2,5.0
+TCK-1122,2026-02-08 16:46,2026-02-09 13:10,Sarah Chen,Technical Support,Live Chat,Technical Bug,Medium,Resolved,137,20.4,5.0
+TCK-1123,2026-06-19 17:05,,Chloe Bennett,Customer Service,Email,Billing Inquiry,Medium,Escalated,152,,
+TCK-1124,2026-02-08 08:28,2026-02-10 00:10,Chloe Bennett,Customer Service,Email,Billing Inquiry,Medium,Resolved,150,39.7,5.0
+TCK-1125,2026-03-06 08:02,2026-03-08 04:02,David Kim,Billing,Live Chat,Billing Inquiry,Low,Resolved,212,44.0,2.0
+TCK-1126,2026-03-14 14:38,,Sarah Chen,Technical Support,Live Chat,Billing Inquiry,Critical,Pending,9,,
+TCK-1127,2026-07-17 15:19,2026-07-17 17:55,Chloe Bennett,Customer Service,Live Chat,Cancellation,Critical,Resolved,8,2.6,2.0
+TCK-1128,2026-03-04 13:09,2026-03-08 10:03,David Kim,Billing,Phone,Billing Inquiry,Low,Resolved,300,92.9,3.0
+TCK-1129,2026-01-05 08:53,2026-01-06 21:59,Sarah Chen,Technical Support,Live Chat,Technical Bug,Medium,Resolved,111,37.1,5.0
+TCK-1130,2026-06-09 09:59,2026-06-10 12:05,David Kim,Billing,Live Chat,Technical Bug,Medium,Resolved,134,26.1,5.0
+TCK-1131,2026-01-29 18:48,2026-01-30 13:30,Marcus Vance,Customer Service,Web Portal,Feature Request,High,Resolved,19,18.7,5.0
+TCK-1132,2026-05-04 08:37,2026-05-05 14:07,Marcus Vance,Customer Service,Phone,Account Access,Low,Resolved,343,29.5,3.0
+TCK-1133,2026-02-09 13:00,2026-02-12 17:48,Chloe Bennett,Customer Service,Live Chat,Feature Request,Low,Resolved,296,76.8,4.0
+TCK-1134,2026-06-17 09:31,2026-06-20 10:31,Sarah Chen,Technical Support,Email,Billing Inquiry,Low,Resolved,240,73.0,4.0
+TCK-1135,2026-07-07 08:06,,David Kim,Billing,Phone,Feature Request,Low,Pending,219,,
+TCK-1136,2026-06-07 17:10,2026-06-09 03:22,Alex Reed,Billing,Phone,Feature Request,Medium,Resolved,42,34.2,1.0
+TCK-1137,2026-01-17 13:59,2026-01-17 18:23,Alex Reed,Billing,Live Chat,Account Access,High,Resolved,44,4.4,5.0
+TCK-1138,2026-03-01 13:34,2026-03-03 01:34,Chloe Bennett,Customer Service,Phone,Technical Bug,Low,Resolved,278,36.0,4.0
+TCK-1139,2026-07-12 08:21,2026-07-12 14:33,Alex Reed,Billing,Email,Feature Request,Critical,Resolved,16,6.2,5.0
+TCK-1140,2026-01-07 08:28,2026-01-07 21:22,Marcus Vance,Customer Service,Phone,Account Access,High,Resolved,37,12.9,5.0
+TCK-1141,2026-10-12 16:35,,Sarah Chen,Technical Support,Email,Feature Request,Medium,Pending,104,,
+TCK-1142,2026-10-15 10:09,,Chloe Bennett,Customer Service,Email,Billing Inquiry,High,Escalated,42,,
+TCK-1143,2026-01-21 13:02,,David Kim,Billing,Live Chat,Account Access,Low,Escalated,316,,
+TCK-1144,2026-02-27 16:46,2026-02-28 21:46,Alex Reed,Billing,Email,Billing Inquiry,Medium,Resolved,44,29.0,4.0
+TCK-1145,2026-03-01 15:09,,Sarah Chen,Technical Support,Phone,Technical Bug,High,Pending,21,,
+TCK-1146,2026-06-30 16:55,2026-07-02 02:49,Elena Rostova,Technical Support,Web Portal,Billing Inquiry,Medium,Resolved,46,33.9,5.0
+TCK-1147,2026-01-09 16:20,2026-01-09 17:50,David Kim,Billing,Live Chat,Account Access,Critical,Resolved,25,1.5,5.0
+TCK-1148,2026-04-05 10:45,2026-04-06 05:45,Marcus Vance,Customer Service,Phone,Feature Request,High,Resolved,36,19.0,5.0
+TCK-1149,2026-03-17 08:45,2026-03-18 15:21,Chloe Bennett,Customer Service,Live Chat,Technical Bug,Medium,Resolved,126,30.6,5.0
+TCK-1150,2026-03-18 09:55,2026-03-19 05:07,Alex Reed,Billing,Live Chat,Billing Inquiry,Medium,Resolved,172,19.2,5.0
+TCK-1151,2026-05-03 08:08,,Chloe Bennett,Customer Service,Live Chat,Technical Bug,Low,Escalated,237,,
+TCK-1152,2026-03-25 13:17,2026-03-26 17:35,Marcus Vance,Customer Service,Live Chat,Technical Bug,Medium,Resolved,51,28.3,4.0
+TCK-1153,2026-10-24 08:13,2026-10-25 08:01,Marcus Vance,Customer Service,Phone,Technical Bug,Medium,Resolved,151,23.8,4.0
+TCK-1154,2026-06-22 18:30,2026-06-23 18:30,David Kim,Billing,Phone,Account Access,Medium,Resolved,179,24.0,4.0
+TCK-1155,2026-02-28 18:42,2026-03-03 23:06,Elena Rostova,Technical Support,Email,Technical Bug,Low,Resolved,272,76.4,4.0
+TCK-1156,2026-10-20 16:35,,Elena Rostova,Technical Support,Live Chat,Cancellation,Low,Pending,155,,
+TCK-1157,2026-04-15 14:59,,Alex Reed,Billing,Phone,Account Access,High,Pending,20,,
+TCK-1158,2026-10-22 14:10,2026-10-23 10:40,Alex Reed,Billing,Web Portal,Billing Inquiry,Medium,Resolved,172,20.5,4.0
+TCK-1159,2026-04-10 15:57,,Alex Reed,Billing,Email,Cancellation,Low,Pending,100,,
+TCK-1160,2026-04-21 08:13,2026-04-22 05:31,Sarah Chen,Technical Support,Phone,Billing Inquiry,Medium,Resolved,57,21.3,4.0
+TCK-1161,2026-06-13 13:00,2026-06-15 21:24,Marcus Vance,Customer Service,Phone,Account Access,Low,Resolved,316,56.4,4.0
+TCK-1162,2026-01-01 13:12,2026-01-03 07:36,Chloe Bennett,Customer Service,Email,Billing Inquiry,Medium,Resolved,78,42.4,3.0
+TCK-1163,2026-06-05 14:06,2026-06-09 09:30,Chloe Bennett,Customer Service,Email,Billing Inquiry,Low,Resolved,352,91.4,5.0
+TCK-1164,2026-04-29 08:34,2026-04-30 19:16,Chloe Bennett,Customer Service,Email,Billing Inquiry,Low,Resolved,71,34.7,1.0
+TCK-1165,2026-08-04 12:10,2026-08-04 16:46,Marcus Vance,Customer Service,Email,Account Access,Critical,Resolved,28,4.6,4.0
+TCK-1166,2026-10-21 10:30,2026-10-24 15:06,Chloe Bennett,Customer Service,Email,Technical Bug,Low,Resolved,188,76.6,5.0
+TCK-1167,2026-01-05 16:14,2026-01-05 18:56,Chloe Bennett,Customer Service,Email,Technical Bug,Critical,Resolved,22,2.7,3.0
+TCK-1168,2026-08-20 17:47,2026-08-21 19:59,Marcus Vance,Customer Service,Web Portal,Technical Bug,Medium,Resolved,171,26.2,4.0
+TCK-1169,2026-03-31 11:39,2026-03-31 17:57,Alex Reed,Billing,Web Portal,Billing Inquiry,Critical,Resolved,20,6.3,5.0
+TCK-1170,2026-06-08 16:08,2026-06-12 07:20,Marcus Vance,Customer Service,Phone,Account Access,Low,Resolved,141,87.2,5.0
+TCK-1171,2026-05-09 13:43,2026-05-12 06:19,Chloe Bennett,Customer Service,Live Chat,Billing Inquiry,Low,Resolved,258,64.6,5.0
+TCK-1172,2026-04-03 15:52,2026-04-06 14:10,Sarah Chen,Technical Support,Email,Account Access,Low,Resolved,169,70.3,4.0
+TCK-1173,2026-09-22 08:02,2026-09-23 01:26,David Kim,Billing,Phone,Account Access,Medium,Resolved,41,17.4,4.0
+TCK-1174,2026-10-27 08:42,,Chloe Bennett,Customer Service,Phone,Technical Bug,Medium,Pending,136,,
+TCK-1175,2026-04-27 10:03,2026-04-28 17:21,Sarah Chen,Technical Support,Phone,Account Access,Low,Resolved,334,31.3,4.0
+TCK-1176,2026-02-21 16:13,2026-02-22 18:37,Marcus Vance,Customer Service,Web Portal,Account Access,Medium,Resolved,175,26.4,1.0
+TCK-1177,2026-03-31 13:44,2026-04-02 11:02,Chloe Bennett,Customer Service,Email,Technical Bug,Low,Resolved,130,45.3,4.0
+TCK-1178,2026-10-25 08:35,2026-10-26 00:35,Elena Rostova,Technical Support,Live Chat,Feature Request,Medium,Resolved,135,16.0,5.0
+TCK-1179,2026-04-28 12:36,2026-04-30 06:48,Chloe Bennett,Customer Service,Live Chat,Technical Bug,Medium,Resolved,150,42.2,2.0
+TCK-1180,2026-07-27 08:48,,Alex Reed,Billing,Email,Account Access,Medium,Pending,118,,
+TCK-1181,2026-05-26 15:18,2026-05-26 21:12,Alex Reed,Billing,Email,Billing Inquiry,High,Resolved,35,5.9,5.0
+TCK-1182,2026-05-23 14:58,2026-05-25 01:10,Elena Rostova,Technical Support,Email,Technical Bug,Low,Resolved,313,34.2,5.0
+TCK-1183,2026-09-20 17:56,2026-09-21 10:32,Alex Reed,Billing,Live Chat,Account Access,Medium,Resolved,53,16.6,5.0
+TCK-1184,2026-08-06 09:41,2026-08-07 23:29,Alex Reed,Billing,Web Portal,Technical Bug,Low,Resolved,223,37.8,5.0
+TCK-1185,2026-03-11 15:04,2026-03-12 12:52,Elena Rostova,Technical Support,Live Chat,Feature Request,Medium,Resolved,178,21.8,4.0
+TCK-1186,2026-03-08 14:20,2026-03-08 22:20,Alex Reed,Billing,Email,Technical Bug,Critical,Resolved,21,8.0,5.0
+TCK-1187,2026-04-26 12:23,2026-04-28 17:53,Chloe Bennett,Customer Service,Live Chat,Cancellation,Low,Resolved,267,53.5,5.0
+TCK-1188,2026-02-24 08:11,2026-02-25 10:35,Sarah Chen,Technical Support,Email,Cancellation,Medium,Resolved,52,26.4,5.0
+TCK-1189,2026-01-05 12:07,2026-01-09 02:25,Elena Rostova,Technical Support,Email,Technical Bug,Low,Resolved,290,86.3,4.0
+TCK-1190,2026-02-07 16:19,2026-02-11 11:49,Alex Reed,Billing,Email,Billing Inquiry,Low,Resolved,317,91.5,4.0
+TCK-1191,2026-06-29 14:46,2026-06-30 06:04,Alex Reed,Billing,Live Chat,Account Access,High,Resolved,36,15.3,5.0
+TCK-1192,2026-01-12 11:58,,Sarah Chen,Technical Support,Email,Feature Request,Medium,Pending,163,,
+TCK-1193,2026-03-08 08:06,2026-03-12 06:18,Elena Rostova,Technical Support,Phone,Account Access,Low,Resolved,265,94.2,4.0
+TCK-1194,2026-01-25 12:12,,Chloe Bennett,Customer Service,Email,Technical Bug,Low,Pending,297,,
+TCK-1195,2026-01-25 18:52,2026-01-27 17:40,David Kim,Billing,Email,Account Access,Medium,Resolved,41,46.8,5.0
+TCK-1196,2026-05-21 17:02,2026-05-22 09:26,Chloe Bennett,Customer Service,Phone,Billing Inquiry,High,Resolved,57,16.4,4.0
+TCK-1197,2026-10-14 16:36,2026-10-15 15:18,Marcus Vance,Customer Service,Email,Billing Inquiry,Medium,Resolved,85,22.7,5.0
+TCK-1198,2026-04-09 10:28,2026-04-11 23:10,Sarah Chen,Technical Support,Phone,Billing Inquiry,Low,Resolved,156,60.7,1.0
+TCK-1199,2026-09-30 09:40,2026-10-02 02:10,Elena Rostova,Technical Support,Email,Technical Bug,Medium,Resolved,92,40.5,5.0
+TCK-1200,2026-09-13 16:02,2026-09-14 08:50,Marcus Vance,Customer Service,Live Chat,Feature Request,Medium,Resolved,159,16.8,5.0
+TCK-1201,2026-08-18 17:50,2026-08-19 08:08,David Kim,Billing,Phone,Billing Inquiry,Medium,Resolved,111,14.3,5.0
+TCK-1202,2026-07-07 14:34,2026-07-08 11:22,David Kim,Billing,Phone,Billing Inquiry,Medium,Resolved,81,20.8,4.0
+TCK-1203,2026-08-15 15:15,,David Kim,Billing,Live Chat,Technical Bug,High,Escalated,31,,
+TCK-1204,2026-04-30 14:32,,Sarah Chen,Technical Support,Phone,Account Access,Low,Pending,291,,
+TCK-1205,2026-10-04 12:43,2026-10-05 03:07,Marcus Vance,Customer Service,Live Chat,Account Access,Medium,Resolved,174,14.4,4.0
+TCK-1206,2026-03-10 14:55,2026-03-13 14:25,Elena Rostova,Technical Support,Live Chat,Technical Bug,Low,Resolved,102,71.5,3.0
+TCK-1207,2026-06-01 08:16,,David Kim,Billing,Live Chat,Account Access,Medium,Escalated,172,,
+TCK-1208,2026-07-30 14:30,2026-08-01 09:36,Marcus Vance,Customer Service,Email,Billing Inquiry,Low,Resolved,67,43.1,5.0
+TCK-1209,2026-08-08 13:36,2026-08-09 18:36,Sarah Chen,Technical Support,Web Portal,Technical Bug,Low,Resolved,137,29.0,2.0
+TCK-1210,2026-04-29 11:09,2026-04-30 20:09,Alex Reed,Billing,Email,Billing Inquiry,Medium,Resolved,42,33.0,4.0
+TCK-1211,2026-10-15 12:47,2026-10-17 15:53,Elena Rostova,Technical Support,Email,Billing Inquiry,Low,Resolved,212,51.1,4.0
+TCK-1212,2026-04-24 14:53,2026-04-25 08:17,Elena Rostova,Technical Support,Email,Billing Inquiry,High,Resolved,49,17.4,5.0
+TCK-1213,2026-02-08 16:16,2026-02-09 11:16,Elena Rostova,Technical Support,Web Portal,Billing Inquiry,High,Resolved,22,19.0,4.0
+TCK-1214,2026-05-31 11:55,2026-06-01 23:49,Marcus Vance,Customer Service,Email,Technical Bug,Low,Resolved,328,35.9,5.0
+TCK-1215,2026-10-10 17:21,2026-10-11 23:39,Marcus Vance,Customer Service,Email,Account Access,Medium,Resolved,126,30.3,5.0
+TCK-1216,2026-01-19 08:22,2026-01-19 21:34,David Kim,Billing,Email,Technical Bug,High,Resolved,22,13.2,5.0
+TCK-1217,2026-05-09 12:20,,Marcus Vance,Customer Service,Web Portal,Billing Inquiry,Medium,Pending,39,,
+TCK-1218,2026-08-19 09:05,,Sarah Chen,Technical Support,Live Chat,Account Access,Medium,Pending,87,,
+TCK-1219,2026-02-23 08:11,2026-02-23 15:11,Sarah Chen,Technical Support,Email,Technical Bug,High,Resolved,30,7.0,5.0
+TCK-1220,2026-07-30 09:40,,Alex Reed,Billing,Live Chat,Account Access,Medium,Pending,66,,
+TCK-1221,2026-08-18 15:48,2026-08-19 17:48,Chloe Bennett,Customer Service,Phone,Billing Inquiry,Medium,Resolved,86,26.0,5.0
+TCK-1222,2026-03-12 16:35,2026-03-13 06:29,David Kim,Billing,Live Chat,Billing Inquiry,Medium,Resolved,161,13.9,4.0
+TCK-1223,2026-06-07 17:53,2026-06-09 06:53,Marcus Vance,Customer Service,Email,Feature Request,Medium,Resolved,179,37.0,4.0
+TCK-1224,2026-04-27 08:18,2026-04-27 22:36,David Kim,Billing,Email,Account Access,Medium,Resolved,145,14.3,3.0
+TCK-1225,2026-04-28 10:40,2026-05-01 23:10,Sarah Chen,Technical Support,Live Chat,Account Access,Low,Resolved,106,84.5,5.0
+TCK-1226,2026-05-17 18:01,2026-05-20 12:13,David Kim,Billing,Email,Account Access,Low,Resolved,172,66.2,4.0
+TCK-1227,2026-07-17 17:22,2026-07-20 00:40,David Kim,Billing,Email,Feature Request,Low,Resolved,108,55.3,2.0
+TCK-1228,2026-03-11 18:01,,Elena Rostova,Technical Support,Email,Cancellation,High,Pending,50,,
+TCK-1229,2026-10-24 11:01,2026-10-24 15:19,Chloe Bennett,Customer Service,Live Chat,Billing Inquiry,High,Resolved,50,4.3,5.0
+TCK-1230,2026-04-16 14:53,2026-04-17 02:17,Chloe Bennett,Customer Service,Email,Billing Inquiry,High,Resolved,30,11.4,5.0
+TCK-1231,2026-08-05 11:24,2026-08-08 03:54,Chloe Bennett,Customer Service,Email,Account Access,Low,Resolved,309,64.5,5.0
+TCK-1232,2026-06-27 16:38,,Chloe Bennett,Customer Service,Phone,Billing Inquiry,Medium,Escalated,172,,
+TCK-1233,2026-07-18 15:05,,Alex Reed,Billing,Live Chat,Billing Inquiry,Medium,Escalated,111,,
+TCK-1234,2026-03-10 10:10,,Alex Reed,Billing,Email,Account Access,Low,Escalated,220,,
+TCK-1235,2026-06-27 18:28,2026-06-28 14:40,Elena Rostova,Technical Support,Live Chat,Billing Inquiry,Medium,Resolved,90,20.2,5.0
+TCK-1236,2026-02-12 15:02,,Chloe Bennett,Customer Service,Live Chat,Technical Bug,Low,Pending,64,,
+TCK-1237,2026-01-02 08:21,2026-01-03 06:51,Sarah Chen,Technical Support,Phone,Account Access,Medium,Resolved,115,22.5,4.0
+TCK-1238,2026-10-21 17:30,2026-10-22 11:24,Alex Reed,Billing,Web Portal,Technical Bug,Medium,Resolved,50,17.9,5.0
+TCK-1239,2026-08-02 18:54,,David Kim,Billing,Phone,Billing Inquiry,Low,Escalated,227,,
+TCK-1240,2026-02-27 08:25,,Sarah Chen,Technical Support,Email,Billing Inquiry,Medium,Pending,126,,
+TCK-1241,2026-02-11 11:46,2026-02-12 06:46,Chloe Bennett,Customer Service,Live Chat,Account Access,Medium,Resolved,80,19.0,5.0
+TCK-1242,2026-01-08 16:27,2026-01-11 06:51,Elena Rostova,Technical Support,Phone,Billing Inquiry,Low,Resolved,297,62.4,5.0
+TCK-1243,2026-09-25 14:25,2026-09-27 04:55,Marcus Vance,Customer Service,Live Chat,Feature Request,Low,Resolved,279,38.5,5.0
+TCK-1244,2026-04-11 18:18,,David Kim,Billing,Live Chat,Technical Bug,Low,Pending,71,,
+TCK-1245,2026-01-16 10:08,2026-01-18 09:26,David Kim,Billing,Web Portal,Technical Bug,Medium,Resolved,131,47.3,4.0
+TCK-1246,2026-05-08 16:56,2026-05-09 16:26,Marcus Vance,Customer Service,Live Chat,Technical Bug,High,Resolved,19,23.5,5.0
+TCK-1247,2026-09-22 14:11,2026-09-24 08:29,Chloe Bennett,Customer Service,Live Chat,Technical Bug,Low,Resolved,272,42.3,3.0
+TCK-1248,2026-03-17 15:55,2026-03-18 04:19,Chloe Bennett,Customer Service,Email,Technical Bug,High,Resolved,35,12.4,2.0
+TCK-1249,2026-03-16 12:38,2026-03-16 19:08,Chloe Bennett,Customer Service,Phone,Feature Request,High,Resolved,47,6.5,4.0
+TCK-1250,2026-03-07 16:02,,Elena Rostova,Technical Support,Phone,Billing Inquiry,Medium,Escalated,116,,
+TCK-1251,2026-05-08 11:10,2026-05-11 18:04,Marcus Vance,Customer Service,Phone,Account Access,Low,Resolved,286,78.9,5.0
+TCK-1252,2026-05-22 15:39,2026-05-24 03:45,Sarah Chen,Technical Support,Phone,Technical Bug,Medium,Resolved,163,36.1,4.0
+TCK-1253,2026-04-01 13:53,2026-04-03 06:47,Chloe Bennett,Customer Service,Live Chat,Feature Request,Medium,Resolved,59,40.9,4.0
+TCK-1254,2026-10-08 15:03,2026-10-09 10:09,Chloe Bennett,Customer Service,Web Portal,Billing Inquiry,High,Resolved,17,19.1,3.0
+TCK-1255,2026-06-22 13:26,2026-06-22 21:50,Chloe Bennett,Customer Service,Phone,Account Access,High,Resolved,28,8.4,5.0
+TCK-1256,2026-06-13 15:44,,Chloe Bennett,Customer Service,Email,Technical Bug,Low,Pending,286,,
+TCK-1257,2026-08-10 08:40,2026-08-11 06:28,Elena Rostova,Technical Support,Email,Feature Request,High,Resolved,36,21.8,5.0
+TCK-1258,2026-07-02 08:15,2026-07-03 16:51,David Kim,Billing,Phone,Billing Inquiry,Medium,Resolved,79,32.6,4.0
+TCK-1259,2026-10-03 11:20,,David Kim,Billing,Email,Feature Request,Low,Escalated,67,,
+TCK-1260,2026-03-17 10:53,,Sarah Chen,Technical Support,Email,Billing Inquiry,Low,Escalated,97,,
+TCK-1261,2026-10-03 16:24,2026-10-06 03:30,David Kim,Billing,Live Chat,Technical Bug,Low,Resolved,135,59.1,4.0
+TCK-1262,2026-07-13 10:41,2026-07-14 00:05,Marcus Vance,Customer Service,Phone,Account Access,Medium,Resolved,174,13.4,4.0
+TCK-1263,2026-10-10 18:47,2026-10-13 14:47,Marcus Vance,Customer Service,Email,Cancellation,Low,Resolved,201,68.0,5.0
+TCK-1264,2026-06-26 18:52,2026-06-29 04:10,David Kim,Billing,Email,Billing Inquiry,Low,Resolved,149,57.3,5.0
+TCK-1265,2026-07-11 13:17,2026-07-13 06:47,Alex Reed,Billing,Email,Cancellation,Medium,Resolved,70,41.5,4.0
+TCK-1266,2026-02-28 11:02,2026-03-02 06:50,Sarah Chen,Technical Support,Email,Technical Bug,Low,Resolved,186,43.8,5.0
+TCK-1267,2026-04-18 08:18,2026-04-22 05:06,Elena Rostova,Technical Support,Phone,Technical Bug,Low,Resolved,149,92.8,3.0
+TCK-1268,2026-01-08 10:32,2026-01-09 04:14,Marcus Vance,Customer Service,Email,Technical Bug,High,Resolved,34,17.7,5.0
+TCK-1269,2026-06-10 18:38,2026-06-11 09:32,Elena Rostova,Technical Support,Live Chat,Billing Inquiry,Medium,Resolved,105,14.9,5.0
+TCK-1270,2026-09-15 09:44,2026-09-16 18:02,Alex Reed,Billing,Live Chat,Technical Bug,Low,Resolved,177,32.3,5.0
+TCK-1271,2026-09-16 09:23,2026-09-19 20:23,Chloe Bennett,Customer Service,Email,Cancellation,Low,Resolved,355,83.0,4.0
+TCK-1272,2026-09-25 14:58,2026-09-27 06:34,Marcus Vance,Customer Service,Live Chat,Technical Bug,Low,Resolved,108,39.6,4.0
+TCK-1273,2026-10-21 12:36,2026-10-24 07:06,Chloe Bennett,Customer Service,Phone,Account Access,Low,Resolved,181,66.5,5.0
+TCK-1274,2026-10-15 15:30,2026-10-16 03:54,Marcus Vance,Customer Service,Phone,Cancellation,Medium,Resolved,77,12.4,5.0
+TCK-1275,2026-04-28 18:11,2026-04-29 21:23,Elena Rostova,Technical Support,Phone,Account Access,Low,Resolved,255,27.2,4.0
+TCK-1276,2026-02-16 10:27,2026-02-17 19:57,Marcus Vance,Customer Service,Email,Technical Bug,Medium,Resolved,155,33.5,5.0
+TCK-1277,2026-03-05 13:24,2026-03-06 06:30,Alex Reed,Billing,Phone,Technical Bug,Medium,Resolved,142,17.1,4.0
+TCK-1278,2026-03-08 09:14,2026-03-10 13:44,David Kim,Billing,Live Chat,Billing Inquiry,Low,Resolved,293,52.5,5.0
+TCK-1279,2026-05-05 12:04,2026-05-07 08:04,Chloe Bennett,Customer Service,Email,Feature Request,Medium,Resolved,64,44.0,4.0
+TCK-1280,2026-07-20 14:08,2026-07-21 21:38,David Kim,Billing,Email,Cancellation,Medium,Resolved,51,31.5,5.0
+TCK-1281,2026-06-11 14:04,,Chloe Bennett,Customer Service,Email,Feature Request,Medium,Pending,138,,
+TCK-1282,2026-02-20 16:16,2026-02-20 18:28,David Kim,Billing,Email,Billing Inquiry,Critical,Resolved,23,2.2,4.0
+TCK-1283,2026-05-05 16:02,,David Kim,Billing,Live Chat,Account Access,Medium,Escalated,111,,
+TCK-1284,2026-04-14 11:33,2026-04-15 16:39,Sarah Chen,Technical Support,Phone,Account Access,Medium,Resolved,34,29.1,4.0
+TCK-1285,2026-05-27 09:03,,Marcus Vance,Customer Service,Web Portal,Technical Bug,Medium,Pending,178,,
+TCK-1286,2026-09-03 14:34,2026-09-04 07:58,Elena Rostova,Technical Support,Email,Technical Bug,Medium,Resolved,99,17.4,4.0
+TCK-1287,2026-04-18 17:41,2026-04-19 21:41,Alex Reed,Billing,Live Chat,Account Access,Medium,Resolved,111,28.0,4.0
+TCK-1288,2026-08-27 14:04,2026-08-28 11:58,Marcus Vance,Customer Service,Email,Billing Inquiry,High,Resolved,47,21.9,5.0
+TCK-1289,2026-10-21 13:22,2026-10-23 23:40,Marcus Vance,Customer Service,Email,Cancellation,Low,Resolved,173,58.3,4.0
+TCK-1290,2026-06-20 17:25,,Alex Reed,Billing,Email,Billing Inquiry,Medium,Pending,64,,
+TCK-1291,2026-07-03 12:45,,Sarah Chen,Technical Support,Phone,Cancellation,Low,Escalated,89,,
+TCK-1292,2026-05-15 17:38,2026-05-19 01:02,Sarah Chen,Technical Support,Email,Technical Bug,Low,Resolved,195,79.4,4.0
+TCK-1293,2026-05-07 12:16,2026-05-09 00:58,Elena Rostova,Technical Support,Phone,Billing Inquiry,Medium,Resolved,157,36.7,5.0
+TCK-1294,2026-03-16 13:54,2026-03-17 20:42,Marcus Vance,Customer Service,Live Chat,Technical Bug,Medium,Resolved,112,30.8,5.0
+TCK-1295,2026-05-25 14:14,2026-05-28 14:14,Alex Reed,Billing,Phone,Technical Bug,Low,Resolved,72,72.0,5.0
+TCK-1296,2026-10-17 12:54,,Marcus Vance,Customer Service,Phone,Cancellation,Medium,Pending,82,,
+TCK-1297,2026-10-22 13:20,2026-10-24 04:38,Sarah Chen,Technical Support,Live Chat,Cancellation,Medium,Resolved,86,39.3,5.0
+TCK-1298,2026-07-02 08:22,2026-07-03 05:04,Chloe Bennett,Customer Service,Live Chat,Feature Request,Medium,Resolved,143,20.7,4.0
+TCK-1299,2026-02-22 14:47,2026-02-23 04:41,Chloe Bennett,Customer Service,Live Chat,Billing Inquiry,High,Resolved,26,13.9,5.0
+TCK-1300,2026-09-05 13:53,2026-09-08 17:23,Marcus Vance,Customer Service,Email,Account Access,Low,Resolved,213,75.5,4.0
+TCK-1301,2026-07-28 13:42,2026-07-28 19:42,Alex Reed,Billing,Live Chat,Account Access,High,Resolved,42,6.0,5.0
+TCK-1302,2026-05-27 10:16,,Marcus Vance,Customer Service,Phone,Technical Bug,High,Escalated,33,,
+TCK-1303,2026-06-26 11:17,2026-06-29 13:59,Elena Rostova,Technical Support,Phone,Billing Inquiry,Low,Resolved,276,74.7,5.0
+TCK-1304,2026-01-23 11:54,2026-01-25 09:24,David Kim,Billing,Email,Billing Inquiry,Low,Resolved,340,45.5,5.0
+TCK-1305,2026-07-30 18:51,2026-07-30 23:09,David Kim,Billing,Email,Account Access,Critical,Resolved,13,4.3,5.0
+TCK-1306,2026-09-13 11:46,2026-09-17 00:58,Elena Rostova,Technical Support,Email,Feature Request,Low,Resolved,159,85.2,5.0
+TCK-1307,2026-06-15 15:38,2026-06-16 08:32,Chloe Bennett,Customer Service,Phone,Billing Inquiry,Medium,Resolved,166,16.9,4.0
+TCK-1308,2026-10-01 08:02,2026-10-03 04:02,Elena Rostova,Technical Support,Web Portal,Billing Inquiry,Medium,Resolved,94,44.0,5.0
+TCK-1309,2026-08-15 16:44,2026-08-16 05:14,Sarah Chen,Technical Support,Phone,Technical Bug,Medium,Resolved,103,12.5,5.0
+TCK-1310,2026-10-07 14:37,,Alex Reed,Billing,Email,Technical Bug,Low,Pending,83,,
+TCK-1311,2026-01-29 10:50,2026-01-31 02:38,Sarah Chen,Technical Support,Web Portal,Account Access,Medium,Resolved,45,39.8,4.0
+TCK-1312,2026-07-05 16:21,2026-07-06 04:57,David Kim,Billing,Email,Account Access,Medium,Resolved,164,12.6,5.0
+TCK-1313,2026-02-02 08:54,2026-02-03 20:12,Alex Reed,Billing,Email,Technical Bug,Medium,Resolved,146,35.3,1.0
+TCK-1314,2026-04-21 13:06,2026-04-22 15:24,Sarah Chen,Technical Support,Live Chat,Feature Request,Medium,Resolved,74,26.3,5.0
+TCK-1315,2026-07-14 16:08,2026-07-16 14:38,David Kim,Billing,Email,Account Access,Medium,Resolved,33,46.5,2.0
+TCK-1316,2026-05-13 18:07,2026-05-16 22:19,Elena Rostova,Technical Support,Live Chat,Cancellation,Low,Resolved,118,76.2,4.0
+TCK-1317,2026-01-26 08:24,2026-01-26 12:06,Alex Reed,Billing,Email,Billing Inquiry,Critical,Resolved,8,3.7,4.0
+TCK-1318,2026-02-18 17:23,2026-02-19 00:17,Chloe Bennett,Customer Service,Email,Account Access,High,Resolved,40,6.9,5.0
+TCK-1319,2026-09-05 17:25,2026-09-09 14:43,Sarah Chen,Technical Support,Web Portal,Account Access,Low,Resolved,336,93.3,4.0
+TCK-1320,2026-03-03 17:57,2026-03-04 21:57,Chloe Bennett,Customer Service,Live Chat,Account Access,Medium,Resolved,35,28.0,5.0
+TCK-1321,2026-08-23 18:19,2026-08-24 10:13,Sarah Chen,Technical Support,Email,Cancellation,Medium,Resolved,99,15.9,4.0
+TCK-1322,2026-09-09 17:19,2026-09-11 06:01,Marcus Vance,Customer Service,Web Portal,Technical Bug,Low,Resolved,78,36.7,5.0
+TCK-1323,2026-06-03 14:29,2026-06-04 21:17,Elena Rostova,Technical Support,Phone,Technical Bug,Medium,Resolved,72,30.8,1.0
+TCK-1324,2026-09-04 16:39,2026-09-08 00:57,David Kim,Billing,Phone,Technical Bug,Low,Resolved,98,80.3,1.0
+TCK-1325,2026-08-30 09:32,2026-08-30 18:08,Chloe Bennett,Customer Service,Live Chat,Feature Request,High,Resolved,42,8.6,4.0
+TCK-1326,2026-08-04 10:49,2026-08-04 15:25,Elena Rostova,Technical Support,Email,Account Access,High,Resolved,41,4.6,4.0
+TCK-1327,2026-05-21 10:52,,Alex Reed,Billing,Web Portal,Billing Inquiry,Critical,Escalated,5,,
+TCK-1328,2026-06-09 18:00,2026-06-13 14:30,David Kim,Billing,Live Chat,Technical Bug,Low,Resolved,158,92.5,4.0
+TCK-1329,2026-07-25 08:16,2026-07-27 04:46,Alex Reed,Billing,Web Portal,Account Access,Medium,Resolved,143,44.5,3.0
+TCK-1330,2026-04-26 12:25,2026-04-28 04:37,Marcus Vance,Customer Service,Email,Billing Inquiry,Low,Resolved,296,40.2,5.0
+TCK-1331,2026-09-13 18:50,2026-09-14 16:44,Marcus Vance,Customer Service,Live Chat,Account Access,High,Resolved,21,21.9,2.0
+TCK-1332,2026-02-09 18:44,2026-02-10 10:32,David Kim,Billing,Phone,Feature Request,High,Resolved,59,15.8,5.0
+TCK-1333,2026-05-27 09:51,,Chloe Bennett,Customer Service,Email,Billing Inquiry,Low,Escalated,254,,
+TCK-1334,2026-10-07 12:42,,David Kim,Billing,Phone,Technical Bug,Medium,Pending,63,,
+TCK-1335,2026-06-30 12:07,2026-07-01 16:31,Elena Rostova,Technical Support,Live Chat,Billing Inquiry,Low,Resolved,308,28.4,5.0
+TCK-1336,2026-05-18 14:30,2026-05-19 13:48,Chloe Bennett,Customer Service,Email,Account Access,High,Resolved,18,23.3,5.0
+TCK-1337,2026-08-27 10:48,,David Kim,Billing,Phone,Technical Bug,High,Pending,41,,
+TCK-1338,2026-07-25 11:04,2026-07-26 13:16,Chloe Bennett,Customer Service,Email,Cancellation,Medium,Resolved,51,26.2,4.0
+TCK-1339,2026-08-29 12:31,2026-09-01 06:31,Marcus Vance,Customer Service,Live Chat,Technical Bug,Low,Resolved,313,66.0,2.0
+TCK-1340,2026-01-10 16:24,2026-01-12 08:30,Sarah Chen,Technical Support,Live Chat,Billing Inquiry,Medium,Resolved,131,40.1,4.0
+TCK-1341,2026-02-20 09:20,2026-02-24 03:38,Sarah Chen,Technical Support,Live Chat,Billing Inquiry,Low,Resolved,257,90.3,4.0
+TCK-1342,2026-06-16 16:28,2026-06-18 16:40,Chloe Bennett,Customer Service,Email,Billing Inquiry,Low,Resolved,129,48.2,1.0
+TCK-1343,2026-01-03 13:36,2026-01-04 03:18,Sarah Chen,Technical Support,Phone,Technical Bug,High,Resolved,17,13.7,4.0
+TCK-1344,2026-05-08 15:31,,Alex Reed,Billing,Email,Technical Bug,Low,Pending,348,,
+TCK-1345,2026-09-27 13:14,2026-09-27 16:26,David Kim,Billing,Phone,Account Access,Critical,Resolved,5,3.2,4.0
+TCK-1346,2026-01-13 11:59,,Chloe Bennett,Customer Service,Live Chat,Account Access,Low,Pending,207,,
+TCK-1347,2026-04-05 15:31,,Elena Rostova,Technical Support,Email,Feature Request,Medium,Pending,36,,
+TCK-1348,2026-07-25 14:14,2026-07-26 04:08,Marcus Vance,Customer Service,Phone,Cancellation,Medium,Resolved,101,13.9,4.0
+TCK-1349,2026-05-06 17:24,2026-05-07 05:30,Marcus Vance,Customer Service,Email,Account Access,High,Resolved,42,12.1,5.0
+TCK-1350,2026-02-28 08:32,2026-03-01 10:14,Chloe Bennett,Customer Service,Email,Account Access,Medium,Resolved,76,25.7,1.0
+TCK-1351,2026-03-25 14:30,,Chloe Bennett,Customer Service,Phone,Technical Bug,Medium,Escalated,53,,
+TCK-1352,2026-07-21 14:00,2026-07-21 21:54,Sarah Chen,Technical Support,Email,Account Access,Critical,Resolved,9,7.9,4.0
+TCK-1353,2026-03-23 15:53,2026-03-24 22:29,Elena Rostova,Technical Support,Live Chat,Account Access,Medium,Resolved,39,30.6,4.0
+TCK-1354,2026-01-02 18:35,2026-01-03 17:17,Alex Reed,Billing,Phone,Billing Inquiry,Medium,Resolved,49,22.7,5.0
+TCK-1355,2026-04-18 14:42,2026-04-19 11:42,Elena Rostova,Technical Support,Email,Technical Bug,Medium,Resolved,163,21.0,4.0
+TCK-1356,2026-02-17 13:25,2026-02-18 21:01,Sarah Chen,Technical Support,Live Chat,Billing Inquiry,Low,Resolved,142,31.6,5.0
+TCK-1357,2026-03-20 13:14,2026-03-21 06:50,Chloe Bennett,Customer Service,Web Portal,Billing Inquiry,High,Resolved,44,17.6,5.0
+TCK-1358,2026-03-09 08:06,2026-03-10 21:42,Sarah Chen,Technical Support,Live Chat,Cancellation,Low,Resolved,105,37.6,4.0
+TCK-1359,2026-06-25 10:45,,Sarah Chen,Technical Support,Live Chat,Technical Bug,Low,Pending,186,,
+TCK-1360,2026-09-28 18:43,2026-09-29 00:13,David Kim,Billing,Live Chat,Account Access,Critical,Resolved,15,5.5,5.0
+TCK-1361,2026-07-31 16:12,2026-08-01 00:30,Sarah Chen,Technical Support,Phone,Billing Inquiry,High,Resolved,47,8.3,5.0
+TCK-1362,2026-10-17 12:55,2026-10-18 14:19,Marcus Vance,Customer Service,Live Chat,Technical Bug,Medium,Resolved,111,25.4,5.0
+TCK-1363,2026-02-07 18:38,2026-02-08 13:32,Marcus Vance,Customer Service,Live Chat,Billing Inquiry,High,Resolved,52,18.9,4.0
+TCK-1364,2026-08-26 16:13,2026-08-27 14:31,Alex Reed,Billing,Live Chat,Billing Inquiry,High,Resolved,42,22.3,3.0
+TCK-1365,2026-02-25 11:06,,David Kim,Billing,Live Chat,Feature Request,Medium,Pending,143,,
+TCK-1366,2026-09-09 18:18,,David Kim,Billing,Phone,Account Access,Medium,Pending,33,,
+TCK-1367,2026-08-02 12:15,2026-08-04 17:45,David Kim,Billing,Live Chat,Billing Inquiry,Low,Resolved,62,53.5,4.0
+TCK-1368,2026-04-12 08:37,2026-04-15 20:07,David Kim,Billing,Email,Billing Inquiry,Low,Resolved,168,83.5,5.0
+TCK-1369,2026-03-10 10:08,2026-03-11 10:50,Elena Rostova,Technical Support,Web Portal,Account Access,Medium,Resolved,90,24.7,3.0
+TCK-1370,2026-06-02 13:10,2026-06-04 05:52,Chloe Bennett,Customer Service,Web Portal,Cancellation,Low,Resolved,354,40.7,5.0
+TCK-1371,2026-05-17 08:05,,Marcus Vance,Customer Service,Phone,Account Access,Medium,Pending,116,,
+TCK-1372,2026-03-17 15:50,2026-03-19 04:44,Marcus Vance,Customer Service,Live Chat,Billing Inquiry,Low,Resolved,146,36.9,4.0
+TCK-1373,2026-04-22 08:44,,Sarah Chen,Technical Support,Phone,Feature Request,Medium,Pending,123,,
+TCK-1374,2026-05-30 12:48,2026-05-31 05:30,Chloe Bennett,Customer Service,Email,Billing Inquiry,High,Resolved,24,16.7,4.0
+TCK-1375,2026-06-11 11:53,2026-06-13 03:41,Elena Rostova,Technical Support,Email,Billing Inquiry,Low,Resolved,177,39.8,2.0
+TCK-1376,2026-03-13 14:02,2026-03-14 08:02,David Kim,Billing,Live Chat,Technical Bug,High,Resolved,54,18.0,5.0
+TCK-1377,2026-05-21 09:32,2026-05-22 03:20,David Kim,Billing,Phone,Account Access,High,Resolved,38,17.8,5.0
+TCK-1378,2026-10-09 13:04,2026-10-11 07:58,Marcus Vance,Customer Service,Email,Account Access,Medium,Resolved,46,42.9,4.0
+TCK-1379,2026-07-26 17:00,2026-07-27 07:42,David Kim,Billing,Email,Technical Bug,High,Resolved,23,14.7,3.0
+TCK-1380,2026-03-27 13:35,2026-03-28 09:59,Sarah Chen,Technical Support,Live Chat,Account Access,High,Resolved,33,20.4,5.0
+TCK-1381,2026-09-28 10:18,2026-09-29 15:06,David Kim,Billing,Live Chat,Technical Bug,Low,Resolved,253,28.8,3.0
+TCK-1382,2026-07-23 11:04,2026-07-23 17:40,Elena Rostova,Technical Support,Phone,Account Access,Critical,Resolved,17,6.6,5.0
+TCK-1383,2026-08-09 18:34,2026-08-11 07:58,Alex Reed,Billing,Email,Billing Inquiry,Medium,Resolved,88,37.4,5.0
+TCK-1384,2026-03-01 10:01,,Marcus Vance,Customer Service,Web Portal,Account Access,High,Pending,23,,
+TCK-1385,2026-06-08 10:03,2026-06-11 01:33,Alex Reed,Billing,Phone,Account Access,Low,Resolved,309,63.5,4.0
+TCK-1386,2026-10-22 15:59,2026-10-24 04:11,Alex Reed,Billing,Phone,Billing Inquiry,Low,Resolved,118,36.2,5.0
+TCK-1387,2026-08-08 15:21,2026-08-09 08:57,Sarah Chen,Technical Support,Email,Technical Bug,Medium,Resolved,91,17.6,4.0
+TCK-1388,2026-09-26 12:26,2026-09-30 02:56,Chloe Bennett,Customer Service,Live Chat,Technical Bug,Low,Resolved,153,86.5,4.0
+TCK-1389,2026-07-26 13:35,2026-07-28 06:17,Sarah Chen,Technical Support,Live Chat,Billing Inquiry,Medium,Resolved,91,40.7,5.0
+TCK-1390,2026-10-21 16:24,2026-10-24 01:42,Marcus Vance,Customer Service,Web Portal,Technical Bug,Low,Resolved,215,57.3,5.0
+TCK-1391,2026-10-05 17:45,2026-10-06 13:15,David Kim,Billing,Phone,Technical Bug,High,Resolved,34,19.5,4.0
+TCK-1392,2026-06-10 16:59,,Sarah Chen,Technical Support,Live Chat,Billing Inquiry,Medium,Pending,108,,
+TCK-1393,2026-01-05 09:59,,Chloe Bennett,Customer Service,Phone,Account Access,High,Pending,54,,
+TCK-1394,2026-09-12 15:34,2026-09-16 13:10,David Kim,Billing,Phone,Feature Request,Low,Resolved,315,93.6,3.0
+TCK-1395,2026-05-20 12:58,,David Kim,Billing,Phone,Feature Request,High,Escalated,49,,
+TCK-1396,2026-05-23 14:39,,David Kim,Billing,Email,Cancellation,High,Pending,25,,
+TCK-1397,2026-10-18 17:57,2026-10-20 15:45,Chloe Bennett,Customer Service,Email,Cancellation,Medium,Resolved,128,45.8,5.0
+TCK-1398,2026-05-05 10:17,2026-05-05 17:05,Marcus Vance,Customer Service,Live Chat,Cancellation,High,Resolved,24,6.8,4.0
+TCK-1399,2026-02-17 11:30,2026-02-18 15:30,Marcus Vance,Customer Service,Web Portal,Account Access,Medium,Resolved,80,28.0,4.0
+TCK-1400,2026-09-03 09:52,2026-09-06 10:40,Alex Reed,Billing,Phone,Technical Bug,Low,Resolved,214,72.8,5.0
+TCK-1401,2026-03-16 12:36,2026-03-17 06:12,Elena Rostova,Technical Support,Live Chat,Technical Bug,Medium,Resolved,179,17.6,4.0
+TCK-1402,2026-09-17 11:12,,Elena Rostova,Technical Support,Email,Technical Bug,Medium,Escalated,177,,
+TCK-1403,2026-04-22 14:14,,Marcus Vance,Customer Service,Phone,Feature Request,High,Escalated,17,,
+TCK-1404,2026-06-05 11:03,2026-06-06 01:51,Alex Reed,Billing,Live Chat,Billing Inquiry,Medium,Resolved,65,14.8,4.0
+TCK-1405,2026-10-26 10:29,2026-10-28 04:11,Elena Rostova,Technical Support,Email,Account Access,Low,Resolved,175,41.7,4.0
+TCK-1406,2026-08-23 16:38,,David Kim,Billing,Web Portal,Technical Bug,Medium,Pending,102,,
+TCK-1407,2026-06-28 11:31,2026-06-28 12:55,David Kim,Billing,Phone,Technical Bug,Critical,Resolved,25,1.4,5.0
+TCK-1408,2026-08-19 13:08,2026-08-20 08:56,Elena Rostova,Technical Support,Phone,Feature Request,High,Resolved,25,19.8,5.0
+TCK-1409,2026-02-27 12:35,2026-03-02 19:17,Alex Reed,Billing,Email,Billing Inquiry,Low,Resolved,352,78.7,1.0
+TCK-1410,2026-10-23 11:55,2026-10-25 14:13,Marcus Vance,Customer Service,Email,Billing Inquiry,Low,Resolved,98,50.3,5.0
+TCK-1411,2026-01-13 08:35,2026-01-13 15:41,David Kim,Billing,Email,Feature Request,High,Resolved,38,7.1,5.0
+TCK-1412,2026-05-10 08:30,2026-05-11 18:54,Marcus Vance,Customer Service,Live Chat,Feature Request,Low,Resolved,187,34.4,4.0
+TCK-1413,2026-04-22 15:25,2026-04-23 10:19,Sarah Chen,Technical Support,Live Chat,Cancellation,Medium,Resolved,38,18.9,5.0
+TCK-1414,2026-01-18 14:10,2026-01-21 06:40,Elena Rostova,Technical Support,Phone,Feature Request,Low,Resolved,226,64.5,4.0
+TCK-1415,2026-02-09 18:59,2026-02-11 13:11,Alex Reed,Billing,Email,Account Access,Medium,Resolved,67,42.2,5.0
+TCK-1416,2026-08-15 08:47,2026-08-17 04:47,Alex Reed,Billing,Email,Technical Bug,Medium,Resolved,170,44.0,3.0
+TCK-1417,2026-03-18 11:07,,Alex Reed,Billing,Phone,Account Access,Critical,Escalated,17,,
+TCK-1418,2026-06-09 11:06,,Chloe Bennett,Customer Service,Email,Feature Request,Low,Pending,190,,
+TCK-1419,2026-08-25 14:45,,David Kim,Billing,Live Chat,Technical Bug,Medium,Pending,61,,
+TCK-1420,2026-04-09 14:26,2026-04-11 02:38,Marcus Vance,Customer Service,Email,Technical Bug,Medium,Resolved,81,36.2,5.0
+TCK-1421,2026-09-11 17:55,2026-09-12 11:25,Chloe Bennett,Customer Service,Phone,Technical Bug,Medium,Resolved,110,17.5,4.0
+TCK-1422,2026-09-30 08:57,,Alex Reed,Billing,Web Portal,Cancellation,Medium,Escalated,140,,
+TCK-1423,2026-07-06 11:48,2026-07-08 01:06,Sarah Chen,Technical Support,Phone,Technical Bug,Medium,Resolved,174,37.3,2.0
+TCK-1424,2026-08-09 11:57,2026-08-10 02:09,Chloe Bennett,Customer Service,Live Chat,Technical Bug,High,Resolved,31,14.2,4.0
+TCK-1425,2026-07-20 10:59,2026-07-21 14:47,Alex Reed,Billing,Phone,Billing Inquiry,Medium,Resolved,86,27.8,3.0
+TCK-1426,2026-01-01 08:43,2026-01-02 16:43,Marcus Vance,Customer Service,Phone,Billing Inquiry,Low,Resolved,296,32.0,4.0
+TCK-1427,2026-03-13 11:09,2026-03-15 02:57,Elena Rostova,Technical Support,Live Chat,Feature Request,Medium,Resolved,124,39.8,5.0
+TCK-1428,2026-08-09 15:03,2026-08-10 15:27,Chloe Bennett,Customer Service,Live Chat,Account Access,Medium,Resolved,144,24.4,5.0
+TCK-1429,2026-04-25 15:29,2026-04-27 09:59,Marcus Vance,Customer Service,Live Chat,Technical Bug,Medium,Resolved,57,42.5,2.0
+TCK-1430,2026-09-01 17:39,2026-09-01 23:33,Chloe Bennett,Customer Service,Email,Billing Inquiry,Critical,Resolved,21,5.9,4.0
+TCK-1431,2026-03-24 11:05,2026-03-26 05:05,Elena Rostova,Technical Support,Email,Billing Inquiry,Medium,Resolved,77,42.0,2.0
+TCK-1432,2026-07-27 14:09,2026-07-29 00:57,Elena Rostova,Technical Support,Email,Billing Inquiry,Low,Resolved,346,34.8,1.0
+TCK-1433,2026-01-25 16:30,,Alex Reed,Billing,Email,Billing Inquiry,Low,Pending,69,,
+TCK-1434,2026-07-30 10:31,2026-07-31 03:49,David Kim,Billing,Email,Cancellation,High,Resolved,55,17.3,5.0
+TCK-1435,2026-06-11 13:50,2026-06-13 21:32,Alex Reed,Billing,Phone,Cancellation,Low,Resolved,188,55.7,4.0
+TCK-1436,2026-05-29 15:12,2026-05-31 13:24,Elena Rostova,Technical Support,Email,Technical Bug,Medium,Resolved,172,46.2,5.0
+TCK-1437,2026-01-25 09:09,2026-01-28 20:15,Sarah Chen,Technical Support,Email,Billing Inquiry,Low,Resolved,208,83.1,4.0
+TCK-1438,2026-05-31 11:11,2026-06-01 07:11,Marcus Vance,Customer Service,Live Chat,Technical Bug,High,Resolved,25,20.0,5.0
+TCK-1439,2026-08-25 13:10,2026-08-28 21:34,David Kim,Billing,Email,Cancellation,Low,Resolved,299,80.4,4.0
+TCK-1440,2026-01-30 09:47,2026-02-01 03:17,Elena Rostova,Technical Support,Phone,Technical Bug,Medium,Resolved,154,41.5,1.0
+TCK-1441,2026-04-13 16:14,2026-04-15 15:50,Alex Reed,Billing,Email,Billing Inquiry,Medium,Resolved,69,47.6,4.0
+TCK-1442,2026-09-06 11:10,2026-09-07 07:04,Alex Reed,Billing,Live Chat,Feature Request,High,Resolved,59,19.9,5.0
+TCK-1443,2026-09-30 16:48,2026-10-02 01:12,Chloe Bennett,Customer Service,Email,Billing Inquiry,Medium,Resolved,35,32.4,5.0
+TCK-1444,2026-03-13 15:24,2026-03-14 23:54,Chloe Bennett,Customer Service,Phone,Technical Bug,Low,Resolved,119,32.5,2.0
+TCK-1445,2026-08-05 08:25,2026-08-06 16:37,David Kim,Billing,Email,Billing Inquiry,Medium,Resolved,161,32.2,4.0
+TCK-1446,2026-01-13 14:23,2026-01-14 07:23,Elena Rostova,Technical Support,Email,Technical Bug,High,Resolved,31,17.0,5.0
+TCK-1447,2026-06-12 10:01,2026-06-13 14:01,Elena Rostova,Technical Support,Phone,Technical Bug,Medium,Resolved,94,28.0,4.0
+TCK-1448,2026-05-08 14:37,2026-05-12 07:55,David Kim,Billing,Email,Account Access,Low,Resolved,279,89.3,5.0
+TCK-1449,2026-10-11 11:56,2026-10-13 06:02,Alex Reed,Billing,Live Chat,Billing Inquiry,Medium,Resolved,74,42.1,5.0
+TCK-1450,2026-04-13 10:04,2026-04-15 14:46,Sarah Chen,Technical Support,Email,Billing Inquiry,Low,Resolved,280,52.7,5.0
+TCK-1451,2026-06-22 15:32,2026-06-23 12:32,Chloe Bennett,Customer Service,Live Chat,Feature Request,Medium,Resolved,35,21.0,3.0
+TCK-1452,2026-04-06 15:36,2026-04-06 19:42,David Kim,Billing,Web Portal,Billing Inquiry,High,Resolved,56,4.1,1.0
+TCK-1453,2026-10-24 14:55,2026-10-26 10:01,Chloe Bennett,Customer Service,Phone,Account Access,Low,Resolved,306,43.1,1.0
+TCK-1454,2026-01-03 14:32,2026-01-04 09:02,Elena Rostova,Technical Support,Email,Account Access,Medium,Resolved,102,18.5,4.0
+TCK-1455,2026-06-24 09:08,2026-06-27 18:32,Elena Rostova,Technical Support,Live Chat,Account Access,Low,Resolved,84,81.4,4.0
+TCK-1456,2026-04-04 14:14,2026-04-08 02:02,Sarah Chen,Technical Support,Email,Billing Inquiry,Low,Resolved,70,83.8,2.0
+TCK-1457,2026-07-28 15:27,2026-07-29 18:33,Chloe Bennett,Customer Service,Phone,Cancellation,Medium,Resolved,104,27.1,5.0
+TCK-1458,2026-07-06 18:55,2026-07-08 23:31,Chloe Bennett,Customer Service,Phone,Account Access,Low,Resolved,247,52.6,1.0
+TCK-1459,2026-05-10 15:53,2026-05-10 21:47,Marcus Vance,Customer Service,Live Chat,Technical Bug,High,Resolved,54,5.9,5.0
+TCK-1460,2026-02-12 08:16,2026-02-14 16:40,David Kim,Billing,Email,Billing Inquiry,Low,Resolved,351,56.4,5.0
+TCK-1461,2026-03-17 18:12,,Chloe Bennett,Customer Service,Email,Account Access,Medium,Pending,154,,
+TCK-1462,2026-10-20 11:14,2026-10-23 17:56,Elena Rostova,Technical Support,Phone,Technical Bug,Low,Resolved,224,78.7,5.0
+TCK-1463,2026-05-28 12:40,2026-05-30 16:52,Chloe Bennett,Customer Service,Email,Account Access,Low,Resolved,89,52.2,4.0
+TCK-1464,2026-05-21 15:06,2026-05-22 23:06,Chloe Bennett,Customer Service,Web Portal,Account Access,Low,Resolved,290,32.0,4.0
+TCK-1465,2026-04-26 11:58,2026-04-29 02:28,Sarah Chen,Technical Support,Email,Account Access,Low,Resolved,185,62.5,5.0
+TCK-1466,2026-10-27 17:48,2026-10-30 17:18,Alex Reed,Billing,Live Chat,Account Access,Low,Resolved,218,71.5,4.0
+TCK-1467,2026-07-08 14:54,2026-07-10 02:54,Marcus Vance,Customer Service,Web Portal,Technical Bug,Medium,Resolved,89,36.0,4.0
+TCK-1468,2026-01-16 13:01,2026-01-18 22:55,David Kim,Billing,Live Chat,Billing Inquiry,Low,Resolved,154,57.9,4.0
+TCK-1469,2026-02-16 11:00,2026-02-17 02:24,Alex Reed,Billing,Phone,Technical Bug,Medium,Resolved,69,15.4,1.0
+TCK-1470,2026-07-14 08:11,2026-07-14 20:11,Marcus Vance,Customer Service,Phone,Technical Bug,Medium,Resolved,89,12.0,5.0
+TCK-1471,2026-10-11 09:35,2026-10-13 03:41,David Kim,Billing,Live Chat,Cancellation,Low,Resolved,101,42.1,4.0
+TCK-1472,2026-08-25 16:53,2026-08-27 14:17,Sarah Chen,Technical Support,Phone,Billing Inquiry,Medium,Resolved,118,45.4,5.0
+TCK-1473,2026-03-17 11:20,2026-03-20 15:26,Alex Reed,Billing,Email,Billing Inquiry,Low,Resolved,183,76.1,4.0
+TCK-1474,2026-06-08 17:28,2026-06-09 23:28,Chloe Bennett,Customer Service,Live Chat,Feature Request,Medium,Resolved,132,30.0,5.0
+TCK-1475,2026-05-26 10:07,2026-05-27 23:13,Alex Reed,Billing,Live Chat,Billing Inquiry,Medium,Resolved,156,37.1,2.0
+TCK-1476,2026-08-05 09:35,2026-08-06 07:23,Sarah Chen,Technical Support,Phone,Technical Bug,Medium,Resolved,138,21.8,5.0
+TCK-1477,2026-05-29 09:43,2026-05-30 17:43,Marcus Vance,Customer Service,Live Chat,Billing Inquiry,Medium,Resolved,116,32.0,5.0
+TCK-1478,2026-10-15 16:46,2026-10-16 19:16,Elena Rostova,Technical Support,Web Portal,Account Access,Medium,Resolved,56,26.5,4.0
+TCK-1479,2026-07-25 08:42,2026-07-27 03:18,Sarah Chen,Technical Support,Email,Account Access,Medium,Resolved,61,42.6,2.0
+TCK-1480,2026-10-18 18:44,2026-10-19 20:44,Sarah Chen,Technical Support,Live Chat,Feature Request,Medium,Resolved,98,26.0,5.0
+TCK-1481,2026-09-04 18:40,,Elena Rostova,Technical Support,Email,Billing Inquiry,High,Escalated,25,,
+TCK-1482,2026-02-23 16:47,2026-02-25 21:47,Marcus Vance,Customer Service,Phone,Account Access,Low,Resolved,188,53.0,4.0
+TCK-1483,2026-01-08 08:28,2026-01-09 05:40,Marcus Vance,Customer Service,Live Chat,Technical Bug,Medium,Resolved,138,21.2,3.0
+TCK-1484,2026-08-31 09:41,2026-09-02 21:05,Marcus Vance,Customer Service,Live Chat,Billing Inquiry,Low,Resolved,111,59.4,4.0
+TCK-1485,2026-02-12 11:30,2026-02-15 02:30,Elena Rostova,Technical Support,Live Chat,Account Access,Low,Resolved,136,63.0,5.0
+TCK-1486,2026-07-30 17:10,2026-07-31 20:10,Marcus Vance,Customer Service,Live Chat,Account Access,Low,Resolved,70,27.0,4.0
+TCK-1487,2026-08-18 14:08,2026-08-19 04:50,Alex Reed,Billing,Email,Cancellation,Medium,Resolved,149,14.7,2.0
+TCK-1488,2026-06-03 18:51,,Marcus Vance,Customer Service,Web Portal,Account Access,Medium,Escalated,42,,
+TCK-1489,2026-03-30 14:20,,Chloe Bennett,Customer Service,Email,Cancellation,Medium,Escalated,36,,
+TCK-1490,2026-05-02 16:42,2026-05-06 03:24,Elena Rostova,Technical Support,Web Portal,Billing Inquiry,Low,Resolved,85,82.7,4.0
+TCK-1491,2026-06-13 13:33,2026-06-15 08:57,Marcus Vance,Customer Service,Phone,Cancellation,Medium,Resolved,122,43.4,4.0
+TCK-1492,2026-08-05 13:57,2026-08-07 07:15,Alex Reed,Billing,Live Chat,Technical Bug,Medium,Resolved,93,41.3,2.0
+TCK-1493,2026-10-05 10:48,2026-10-06 09:30,Alex Reed,Billing,Live Chat,Technical Bug,Medium,Resolved,81,22.7,5.0
+TCK-1494,2026-07-07 16:35,2026-07-11 07:23,Sarah Chen,Technical Support,Live Chat,Technical Bug,Low,Resolved,237,86.8,4.0
+TCK-1495,2026-09-10 12:51,2026-09-11 20:57,Alex Reed,Billing,Live Chat,Technical Bug,Medium,Resolved,45,32.1,3.0
+TCK-1496,2026-01-31 12:19,2026-01-31 20:19,David Kim,Billing,Email,Cancellation,High,Resolved,18,8.0,5.0
+TCK-1497,2026-03-07 09:47,,Elena Rostova,Technical Support,Phone,Technical Bug,Low,Escalated,316,,
+TCK-1498,2026-03-28 09:29,2026-03-29 01:05,David Kim,Billing,Live Chat,Technical Bug,High,Resolved,32,15.6,2.0
+TCK-1499,2026-09-06 08:32,,Alex Reed,Billing,Phone,Cancellation,Low,Escalated,306,,
+TCK-1500,2026-01-29 10:40,2026-01-30 20:16,Marcus Vance,Customer Service,Email,Account Access,Medium,Resolved,47,33.6,2.0
