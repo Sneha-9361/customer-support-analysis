@@ -34,3 +34,5 @@ This project provides an end-to-end performance diagnostic across 500 customer s
 1. Clone this repository:
    ```bash
    git clone [https://github.com/](https://github.com/)<your-username>/customer-support-analysis.git
+
+   <img width="957" height="537" alt="agent performance dashboard" src="https://github.com/user-attachments/assets/241b31b7-3e60-4f66-ae32-6b03d3efbe7d" />
